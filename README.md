@@ -70,3 +70,10 @@ const Rohit = {
 
   <img src="https://img.shields.io/badge/Profile-Active-58A6FF?style=for-the-badge" />
 </p>
+# 🕹️ Contribution Activity
+
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yrohitz/yrohitz/output/pacman-contribution-graph-dark.svg" />
+</p>
