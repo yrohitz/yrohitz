@@ -132,9 +132,9 @@ const Rohit = {
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a> 
   
-  <a href="mailto:yrrohit12@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
+ <a href="mailto:yrrohit12@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
 
   <a href="https://github.com/yrohitz">
     <img src="https://skillicons.dev/icons?i=github" />
