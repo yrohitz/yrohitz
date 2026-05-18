@@ -121,3 +121,25 @@ const Rohit = {
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,java,fastapi,git,github,linux&theme=dark" />
 </p>
+---
+
+# 🌐 Connect With Me
+
+<br>
+
+<p align="center">
+  <a href="https://linkedin.com/in/rohit-singh-techie">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a> 
+  
+  <a href="mailto:yrrohit12@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+
+  <a href="https://github.com/yrohitz">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+---
+
