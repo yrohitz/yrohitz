@@ -4,9 +4,12 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yrohitz&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile Views" />
-</p>
+  <img src="https://komarev.com/ghpvc/?username=yrohitz&label=PROFILE+VIEWS&color=58A6FF&style=for-the-badge" />
 
+  <img src="https://img.shields.io/github/followers/yrohitz?label=FOLLOWERS&style=for-the-badge&color=58A6FF" />
+
+  <img src="https://img.shields.io/github/stars/yrohitz?affiliations=OWNER&style=for-the-badge&color=58A6FF" />
+</p>
 <h3 align="center">
 Backend Engineering • Systems Design • Machine Learning
 </h3>
