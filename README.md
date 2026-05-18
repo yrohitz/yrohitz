@@ -142,4 +142,25 @@ const Rohit = {
 </p>
 
 ---
+---
 
+# 🦇 Gotham Terminal
+
+<br>
+
+<p align="center">
+  <img width="350" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" />
+</p>
+
+<br>
+
+> *"It's not who I am underneath, but what I build that defines me."*
+
+<br>
+
+```bash
+rohit@wayne-enterprises:~$
+Building scalable systems...
+```
+
+---
