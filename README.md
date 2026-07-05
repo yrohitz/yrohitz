@@ -113,7 +113,13 @@ const Rohit = {
 # ⚙️ Tech Stack & Tools
 
 <br>
-<p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/></p>
+<div align="center">
+
+## 🛠️ Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,java,fastapi,git,github,vscode,linux,docker)](https://skillicons.dev)
+
+</div>
 ---
 
 # 🌐 Connect With Me
