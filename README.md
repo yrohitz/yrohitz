@@ -66,10 +66,6 @@ const Rohit = {
 
 <br>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yrohitz&bg_color=161B22&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" />
-</p>
-
 <br>
 
 <p align="center">
@@ -109,9 +105,7 @@ const Rohit = {
 <br>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_USERNAME/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yrohitz&bg_color=161B22&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" />
 </p>
 
 ---
