@@ -50,6 +50,7 @@ const Rohit = {
 
 | Project | Description |
 |---|---|
+| NextGen Service Website | Client business website developed for a real-world service-based business, focusing on performance, UI/UX, and conversion optimization. Delivered measurable impact by generating new customer leads within 48 hours of launch. |
 | **RoadSOS** | Emergency response platform focused on real-time SOS handling, responder coordination, and scalable backend infrastructure. |
 | **Password Generator** | Lightweight password generator built for creating secure, customizable, and reliable passwords instantly. |
 | **Weather App** | Minimal weather application that delivers real-time weather insights through clean UI and API integration. |
